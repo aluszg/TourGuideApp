@@ -1,0 +1,6 @@
+
+Msquid:S1905",Remove this unnecessary cast to "ViewPager".(Ô Ò‹úÿÿÿÿ8„ÍĞâ±,
+Msquid:S1905",Remove this unnecessary cast to "TabLayout".(å¥›˜ûÿÿÿÿ8„ÍĞâ±,
+bsquid:UselessImportCheck"9Remove this unused import 'android.webkit.WebViewClient'.(Íééê8„ÍĞâ±,
+asquid:UselessImportCheck"3Remove this unused import 'android.webkit.WebView'.(Î‚¸üÿÿÿÿ8„ÍĞâ±,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±8„ÍĞâ±,

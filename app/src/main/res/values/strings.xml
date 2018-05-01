@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">The Bacchus route in Zielona Góra</string>
+    <string name="maps">Map</string>
+    <string name="bacchus_1">Belferus Zenepus</string>
+    <string name="bacchus_2">UZetikus</string>
+    <string name="bacchus_3">Rzepikus Rogalikus</string>
+    <string name="bacchus_4">Odpadek</string>
+    <string name="bacchus_5">Aldemedus</string>
+    <string name="bacchus_6">Brukus</string>
+    <string name="bacchus_7">Czaruś</string>
+    <string name="bacchus_description">Description</string>
+    <string name="bacchus_author">Author</string>
+    <string name="bacchus_founder">Founder</string>
+    <string name="bacchus_1_description">Ulica: Generała Władysława Sikorskiego</string>
+    <string name="bacchus_1_author">Artur Wochniak</string>
+    <string name="bacchus_1_founder">Związek Nauczycielstwa Polskiego</string>
+    <string name="bacchus_2_description">Ulica: Licealna</string>
+    <string name="bacchus_2_author">Robert Tomak</string>
+    <string name="bacchus_2_founder">Uniwersytet Zielonogórski</string>
+    <string name="bacchus_3_description">Ulica: Plac Pocztowy</string>
+    <string name="bacchus_3_author">Robert Tomak</string>
+    <string name="bacchus_3_founder">Piekarnia Rzepka</string>
+    <string name="bacchus_4_description">Ulica: Krawiecka</string>
+    <string name="bacchus_4_author">Artur Wochniak</string>
+    <string name="bacchus_4_founder">miasto Zielona Góra</string>
+    <string name="bacchus_5_description">Ulica: Aleja Niepodległości</string>
+    <string name="bacchus_5_author">Artur Wochniak</string>
+    <string name="bacchus_5_founder">Aldemed</string>
+    <string name="bacchus_6_description">Ulica: Stefana Żeromskiego</string>
+    <string name="bacchus_6_author">Artur Wochniak</string>
+    <string name="bacchus_6_founder">Firma Capri-bis</string>
+    <string name="bacchus_7_description">Ulica: Jedności 4a</string>
+    <string name="bacchus_7_author">Robert Tomak</string>
+    <string name="bacchus_7_founder">Zegarmistrz Wiesław Pierzyna</string>
+</resources>

@@ -1,0 +1,5 @@
+
+=squid:S1170"!Make this final field static too.(í—¯…8Ûµ€ã±,
+rsquid:S00116"URename this field "PAGE_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í—¯…8Ûµ€ã±,
+Tsquid:S1197"8Move the array designator from the variable to the type.(±ˆäû8Ûµ€ã±,
+]squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8Ûµ€ã±,
